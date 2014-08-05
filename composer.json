@@ -1,0 +1,19 @@
+{
+    "name": "11tomes/caclockapi",
+    "description": "API for Coding Avenue Timeclock",
+    "autoload": {
+        "psr-0": {"Clock": "src/"}
+    },
+    "require": {
+        "guzzle/guzzle": "3.*",
+        "sunra/php-simple-html-dom-parser": "1.*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Leonel L. Tomes",
+            "email": "leonel.tomes@codingavenue.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
