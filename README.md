@@ -1,6 +1,7 @@
-This is an unofficial PHP wrapper for accessing Coding Avenue Timeclock data programmtically.
+This is an unofficial PHP wrapper for accessing CA Timeclock data programmtically.
 
 Example Usage:
+
     $api = new Clock\Timeclock();
     $is_successful = $api->authenticate($email, $password);
     if ($is_successful) {
