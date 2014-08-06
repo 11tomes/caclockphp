@@ -1,6 +1,6 @@
 {
-    "name": "11tomes/caclockapi",
-    "description": "API for Coding Avenue Timeclock",
+    "name": "11tomes/caclockphp",
+    "description": "PHP wrapper for CA Timeclock",
     "autoload": {
         "psr-0": {"Clock": "src/"}
     },
